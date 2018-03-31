@@ -1,6 +1,6 @@
 # Welcome
 
-### This is my capstone project. Currently titled 'Sinema'. It is built with React v16.3.0
+### This is my capstone project. Currently titled 'Maxcinema'. It is built with React v16.3.0
 
 **Main Function:** Movie filtering website
 **Additional Features:** 
